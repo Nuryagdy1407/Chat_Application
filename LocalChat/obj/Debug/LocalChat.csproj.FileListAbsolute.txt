@@ -1,0 +1,15 @@
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\bin\Debug\LocalChat.exe.manifest
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\bin\Debug\LocalChat.application
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.ChatFrm.resources
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.GetPassword.resources
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.UserListFrm.resources
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.Properties.Resources.resources
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.Username.resources
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.csproj.GenerateResource.Cache
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.exe.manifest
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.application
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.exe
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\obj\Debug\LocalChat.pdb
+C:\Users\Elon Musk\Desktop\Materials\Chat\Sonky\LocalChat-master\LocalChat-master\LocalChat\bin\Debug\LocalChat.exe.config
